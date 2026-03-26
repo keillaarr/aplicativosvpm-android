@@ -1,0 +1,40 @@
+{
+    "redhat.telemetry.enabled": true,
+    "emmet.excludeLanguages": [
+        "markdown",
+        ""
+    ],
+    "terminal.integrated.allowedLinkSchemes": [
+        "file",
+        "http",
+        "https",
+        "mailto",
+        "vscode",
+        "vscode-insiders",
+        "ms-settings"
+    ],
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "remote.SSH.httpProxy": "",
+    "spring.initializr.defaultLanguage": "Java",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "http.noProxy": [
+        "",
+        "",
+        ""
+    ],
+    "remote.SSH.httpsProxy": "",
+    "jdk.telemetry.enabled": true,
+    "workbench.colorTheme": "Dark - Android Studio",
+    "http.proxyStrictSSL": false,
+    "explorer.confirmDelete": false,
+    "grunt.autoDetect": "on",
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        ""
+    ],
+    "editor.dropIntoEditor.preferences": [
+        
+    ]
+}

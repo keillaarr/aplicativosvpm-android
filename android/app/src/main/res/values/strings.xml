@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">svpm</string>
+    <string name="title_activity_main">svpm</string>
+    <string name="package_name">br.mil.mar.svpm.website</string>
+    <string name="custom_url_scheme">br.mil.mar.svpm.website</string>
+</resources>
