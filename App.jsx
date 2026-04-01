@@ -21,7 +21,7 @@ function App() {
         </p>
 
         <a
-          href="https://website.svpm.mar.mil.br/"
+          href="https://websitesvpm.marinha.mil.br/"
           target="_blank"
           rel="noopener noreferrer"
           style={styles.button}
